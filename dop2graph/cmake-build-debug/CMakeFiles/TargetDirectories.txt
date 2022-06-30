@@ -1,0 +1,3 @@
+C:/games/dop2graph/cmake-build-debug/CMakeFiles/dop2graph.dir
+C:/games/dop2graph/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/games/dop2graph/cmake-build-debug/CMakeFiles/rebuild_cache.dir
